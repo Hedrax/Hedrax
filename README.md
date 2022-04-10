@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hedrax
-- 👀 I’m interested in Game Development
-- 🌱 I’m currently learning C# along with unity
+- 👀 I’m interested in Competitive Prgramming 
+- 🌱 I’m currently learning C++ along with Data Structure
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me>>>
 
